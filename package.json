@@ -7,7 +7,8 @@
   "author": "Baptiste Lambert <bapthf2@gmail.com>",
   "license": "MIT",
   "bin": {
-    "shortid-cli": "./index.js"
+    "shortid-cli": "./index.js",
+    "sid": "./index.js"
   },
   "dependencies": {
     "commander": "^2.11.0",
